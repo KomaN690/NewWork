@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
 body {
-    background-image:url(../image/image\ 1.jpg);
+    background-image:url(../image/image\ 3.png);
 }
 img {
     margin-left: 200px;
@@ -8,9 +8,7 @@ img {
     max-height: 200px;
 }
 a{
-    
-    display: block;
-    width: 100%;
+    max-width: 300px;
     text-decoration: none;
 }
 .text {

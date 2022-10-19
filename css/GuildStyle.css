@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
 body {
-    background-image:url(../image/image\ 1.jpg);
+    background-image:url(../image/1.jpg);
+    background-size: 100%;
 }
 img {
     margin-left: 200px;
@@ -8,9 +9,7 @@ img {
     max-height: 200px;
 }
 a{
-    
-    display: block;
-    width: 100%;
+    max-width: 300px;
     text-decoration: none;
 }
 .text {
@@ -82,4 +81,13 @@ h5 {
     color: rgb(8, 8, 8);
     
 }
-
+.tabl{
+    margin: 200px 300px 0px 600px;
+    font-family: 'IM Fell English', serif;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(8, 8, 8);
+}
+.guildimg{
+    padding: 100px;
+}
