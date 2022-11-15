@@ -1,11 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
 body {
-    background-image:url(../image/image\ 3.png);
+    background-image:url(../image/image\ 2.jpg);
 }
-img {
+.img1 {
     margin-left: 200px;
     max-width: 200px;
     max-height: 200px;
+}
+.ramka{
+    position: absolute;
+    width: 500px;
+    height: 225.37px;
+    left: 181px;
+    top: 238px;
+}
+.ramka1{
+    position: absolute;
+    width: 300px;
+    height: 225.37px;
+    left: 810px;
+    top: 238px;
+}
+.ramka2{
+    position: absolute;
+    width: 300px;
+    height: 225.37px;
+    left: 1439px;
+    top: 238px;
+
+}
+.ramka3{
+    position: absolute;
+    width: 300px;
+    height: 225.37px;
+    left: 481px;
+    top: 521px;
+
+}
+.ramka4{
+    position: absolute;
+    width: 300px;
+    height: 225.37px;
+    left: 1139px;
+    top: 521px;
 }
 a{
     max-width: 300px;
