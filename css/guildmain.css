@@ -150,6 +150,30 @@ h2{
     background: #00000050;
     line-height: 50px;
 }
+.koman{
+    position: absolute;
+    width: 83px;
+    height: 81px;
+    left: 500px;
+    top: 550px;
+    padding-left: 50px;
+}
+.vova{
+    position: absolute;
+    width: 83px;
+    height: 81px;
+    left: 880px;
+    top: 550px;
+    padding-left: 50px;
+}
+.gowa{
+    position: absolute;
+    width: 83px;
+    height: 81px;
+    left: 1250px;
+    top: 550px;
+    padding-left: 50px;
+}
 h3{
     position: absolute;
     left: 491px;
