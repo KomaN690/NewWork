@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
+body {
+    background-image:url(../image/image\ 3.png);
+}
+.img1 {
+    margin-left: 200px;
+    max-width: 200px;
+    max-height: 200px;
+}
+.logoguild{
+    position: absolute;
+    width: 274px;
+    height: 528px;
+    left: 194px;
+    top: 203px;
+}
+
+a{
+    max-width: 300px;
+    text-decoration: none;
+}
+.text {
+    font-family: 'IM Fell English', serif;
+
+    width: 675px;
+    font-size: 150px;
+    margin:auto ;
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    
+}
+h2{
+    font-family: 'IM Fell English', serif;
+    margin-left: 400px;
+    margin-top: -90px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    color: rgb(8, 8, 8);
+}
+.guild{
+    font-family: 'IM Fell English', serif;
+    margin-left: 600px;
+    margin-top: -60px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    color: rgb(8, 8, 8);
+}
+.heroes{
+    font-family: 'IM Fell English', serif;
+    margin-left: 800px;
+    margin-top: -63px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    color: rgb(8, 8, 8);
+}
+.popular{
+    font-family: 'IM Fell English', serif;
+    margin-left: 1000px;
+    margin-top: -63px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    color: rgb(8, 8, 8);
+}
+.links{
+    font-family: 'IM Fell English', serif;
+    margin-left: 1450px;
+    margin-top: -63px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    color: rgb(8, 8, 8);
+}
+.pram{
+    width: 469px;
+    height: 50px;
+    margin-top: 250px;
+    margin-left: 491px;
+    border:1px solid black;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 35px;
+    font-family: 'IM Fell English', serif;
+    background: #00000050;
+    text-align: center;
+    line-height: 50px;
+}
+.average{
+    width: 262px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 1000px;
+    border:1px solid black;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 35px;
+    font-family: 'IM Fell English', serif;
+    background: #00000050;
+    text-align: center;
+    line-height: 50px;
+}
+.procentile{
+    width: 262px;
+    height: 50px;
+    margin-top: -53px;
+    margin-left: 1350px;
+    border:1px solid black;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 35px;
+    font-family: 'IM Fell English', serif;
+    background: #00000050;
+    text-align: center;
+    line-height: 50px;
+}
+.avrank{
+    
+    position: absolute;
+    width: 83px;
+    height: 81px;
+    left: 1242px;
+    top: 380px;
+}
+.platina{
+    position: absolute;
+    width: 83px;
+    height: 81px;
+    left: 1592px;
+    top: 390px;
+}
+.members{
+    width: 1172px;
+    height: 225px;
+    margin-top: 50px;
+    margin-left: 491px;
+    border:1px solid black;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 35px;
+    padding-left: 50px;
+    font-family: 'IM Fell English', serif;
+    background: #00000050;
+    line-height: 50px;
+}
+.player{
+    width: 1225px;
+    height: 50px;
+    margin-top: -227px;
+    margin-left: 490px;
+    border-radius: 10px;
+    background: #00000050;
+    line-height: 50px;
+}
+h3{
+    position: absolute;
+    left: 491px;
+    top: 226px;
+    font-family: 'IM FELL English';
+    font-weight: 400;
+    font-size: 64px;
+    color: #FFFFFF;
+}
+h5 {
+    font-family: 'IM Fell English', serif;
+    width: 1000px;
+    font-size: 50px;
+    margin:auto ;
+    margin-top: 40px;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    
+}
+
